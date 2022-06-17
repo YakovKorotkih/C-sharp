@@ -1,0 +1,15 @@
+D:\Рабочий стол\Ex-006\Ex_6\bin\Debug\net6.0\Ex_6.exe
+D:\Рабочий стол\Ex-006\Ex_6\bin\Debug\net6.0\Ex_6.deps.json
+D:\Рабочий стол\Ex-006\Ex_6\bin\Debug\net6.0\Ex_6.runtimeconfig.json
+D:\Рабочий стол\Ex-006\Ex_6\bin\Debug\net6.0\Ex_6.dll
+D:\Рабочий стол\Ex-006\Ex_6\bin\Debug\net6.0\Ex_6.pdb
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.csproj.AssemblyReference.cache
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.AssemblyInfoInputs.cache
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.AssemblyInfo.cs
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.dll
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\refint\Ex_6.dll
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.pdb
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\Ex_6.genruntimeconfig.cache
+D:\Рабочий стол\Ex-006\Ex_6\obj\Debug\net6.0\ref\Ex_6.dll
